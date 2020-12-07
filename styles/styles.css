@@ -54,8 +54,8 @@ a:hover{
 }
 
 .title{
-  position: absolute;
-  bottom: 80px;
+  position: relative;
+  bottom: 320px;
   left: 25px;
   color: white;
   font-size: 25px;
